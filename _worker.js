@@ -11,8 +11,8 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://cf-workers-text2kv-bhj.pages.dev/ipv4notls.txt?token=789789', 
-	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。 
+	'https://cf-workers-text2kv-bhj.pages.dev/ipv4notls.txt?token=789789'，  
+	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。  
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
